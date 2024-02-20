@@ -13,4 +13,4 @@ Um fabricante produz peças para computadores pelo preço de R$ 2,00 a unidade. 
  # Modo de uso
  * instalar a biblioteca matplotlib
   
-  abrir o terminal do python e digitar o comando "pip install matplotlib".
+  abrir o terminal digitar o comando "pip install matplotlib".
